@@ -1,0 +1,5 @@
+include LICENSE
+include README.md
+recursive-include django_rahavard_robots/static *
+recursive-include django_rahavard_robots/templates *
+recursive-include docs *
